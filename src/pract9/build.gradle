@@ -20,7 +20,7 @@ test {
 
 task buildJar(type: Jar) {
     manifest {
-        attributes 'Main-Class': 'org.example.Main'
+        attributes 'pract5.Main-Class': 'org.example.pract5.Main'
     }
     from sourceSets.main.output
     archiveFileName = 'app.jar'
