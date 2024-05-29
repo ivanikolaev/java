@@ -1,0 +1,1 @@
+Patient{id=1, firstName='Ivan', lastName='Nikolaev'}

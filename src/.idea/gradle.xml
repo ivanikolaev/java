@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract12" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract12" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract13" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract13" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract14" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract14" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract15" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract15" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract16" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract16" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract17" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract19" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract19" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract20" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract20" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract21" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract21" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract22" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract23" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pract9" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pract9" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
